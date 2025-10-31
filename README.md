@@ -67,8 +67,4 @@ Este projeto foi construído de forma incremental, simulando um ambiente de dese
     * Implementação do Modo Escuro acessível.
     * Otimização de imagens e de arquivos para produção.
 
----
 
-## Autor
-
-Desenvolvido por **Augusto Lonardi** como parte do curso de Desenvolvimento Front End em Análise e Desenvolvimento de Sistemas | Cruzeiro do Sul | Universidade de Franca
